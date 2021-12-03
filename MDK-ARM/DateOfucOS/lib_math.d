@@ -1,0 +1,12 @@
+dateofucos\lib_math.o: ..\UCOSlll\uC-LIB\lib_math.c
+dateofucos\lib_math.o: ..\UCOSlll\uC-LIB\lib_math.h
+dateofucos\lib_math.o: ..\UCOSlll\uC-CPU\ARM-Cortex-M3\RealView\cpu.h
+dateofucos\lib_math.o: ..\UCOSlll\uC-CPU\cpu_def.h
+dateofucos\lib_math.o: ..\Src\OS\cpu_cfg.h
+dateofucos\lib_math.o: ..\UCOSlll\uC-CPU\cpu_core.h
+dateofucos\lib_math.o: ..\UCOSlll\uC-LIB\lib_def.h
+dateofucos\lib_math.o: ..\UCOSlll\uC-LIB\lib_mem.h
+dateofucos\lib_math.o: ..\UCOSlll\uC-CPU\cpu_core.h
+dateofucos\lib_math.o: ..\Src\OS\lib_cfg.h
+dateofucos\lib_math.o: ..\UCOSlll\uC-LIB\lib_str.h
+dateofucos\lib_math.o: ..\UCOSlll\uC-LIB\lib_ascii.h
