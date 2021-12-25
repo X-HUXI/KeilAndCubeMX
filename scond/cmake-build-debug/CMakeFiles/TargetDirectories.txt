@@ -1,0 +1,3 @@
+F:/CLionProject/second/scond/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/CLionProject/second/scond/cmake-build-debug/CMakeFiles/scond.elf.dir
+F:/CLionProject/second/scond/cmake-build-debug/CMakeFiles/edit_cache.dir
